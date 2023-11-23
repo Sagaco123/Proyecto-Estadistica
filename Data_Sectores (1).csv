@@ -1,4 +1,4 @@
-?Issuer,RIC,Exchange,TRBC Sector,Type of Equity,Currency,Ex-Dividend Date,ISIN,CUSIP/CINS,SEDOL
+Issuer,RIC,Exchange,TRBC Sector,Type of Equity,Currency,Ex-Dividend Date,ISIN,CUSIP/CINS,SEDOL
 Tesla Inc,TSLA.O,NASDAQ Global Select Consolidated,Electric (Alternative) Vehicles,Ordinary Share,US Dollar,,US88160R1014,88160R101,
 NVIDIA Corp,NVDA.O,NASDAQ Global Select Consolidated,Semiconductors (NEC),Ordinary Share,US Dollar,5/09/2023,US67066G1040,67066G104,
 Microsoft Corp,MSFT.O,NASDAQ Global Select Consolidated,Software (NEC),Ordinary Share,US Dollar,14/11/2023,US5949181045,594918104,
